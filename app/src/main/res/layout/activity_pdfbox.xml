@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".PDFBoxActivity">
+
+    <TextView
+        android:id="@+id/pdf_tv"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:text="Select PDF Document to be parsed"
+        />
+    <Button
+    android:id="@+id/pdf_btn"
+    android:text="Browse"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/read_pdf_btn"
+        android:text="Read PDF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_data"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_weight="1"
+        android:visibility="gone"
+        />
+
+
+    <ProgressBar
+        android:id="@+id/mData_progressbar"
+        android:visibility="invisible"
+        android:layout_width="25dp"
+        android:layout_height="25dp" />
+
+
+</LinearLayout>
