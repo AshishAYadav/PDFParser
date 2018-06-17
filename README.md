@@ -5,15 +5,16 @@ This readme file gives explanation of the work
 
 PDFParser can read data from the text version PDFs 
 
-It reads ###Meta Data and ###Contents of the file
+It reads Meta Data and Contents of the file
 
 Below are the few snapshots of the app
 
+<div style=" display: inline;">
 <img src="https://github.com/AshishAYadav/PDFParser/blob/master/Screenshot_2018-06-18-03-33-18-115_com.google.android.packageinstaller.png " width="200" height="400" />
 <img src="https://github.com/AshishAYadav/PDFParser/blob/master/Screenshot_2018-06-18-03-33-24-564_com.android.PDFParser.png " width="200" height="400" />
-<img src="https://github.com/AshishAYadav/PDFParser/blob/master/Screenshot_2018-06-18-03-33-30-265_com.android.PDFParser" width="200" height="400" />
+<img src="https://github.com/AshishAYadav/PDFParser/blob/master/Screenshot_2018-06-18-03-33-30-265_com.android.PDFParser.png" width="200" height="400" />
 <img src="https://github.com/AshishAYadav/PDFParser/blob/master/Screenshot_2018-06-18-03-34-00-601_com.android.PDFParser.png " width="200" height="400" />
-
+</div>
 
 
 
